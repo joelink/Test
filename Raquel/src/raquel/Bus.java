@@ -13,7 +13,7 @@ public class Bus extends Vehiculo {
 
     private String modelo;
     private int cantidad_disponible;
-
+    //Hello
     public Bus(String modelo, int cantidad_disponible, String Tipo_Vehículo, String año_vehículo, int capacidad_pasajeros) {
         super(Tipo_Vehículo, año_vehículo, capacidad_pasajeros);
         this.modelo = modelo;
